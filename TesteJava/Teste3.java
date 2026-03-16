@@ -13,6 +13,8 @@ public class Teste3 {
             double area = (base*altura) /2;
             System.out.println("Area é = " + area);
 
+            scanner.close();
+
             
         }
 

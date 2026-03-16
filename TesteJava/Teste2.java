@@ -13,6 +13,8 @@ public class Teste2 {
             double imc =  peso / (altura*altura);
             System.out.println("Seu IMC: " + imc);
 
+            scanner.close();
+
             
         }
     }
