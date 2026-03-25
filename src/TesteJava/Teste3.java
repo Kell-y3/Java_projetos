@@ -1,3 +1,4 @@
+package TesteJava;
 import java.util.Scanner;
 
 public class Teste3 {

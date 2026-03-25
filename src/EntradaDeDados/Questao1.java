@@ -1,3 +1,4 @@
+package EntradaDeDados;
 import java.util.Scanner;
 
 public class Questao1 {
@@ -18,4 +19,3 @@ public class Questao1 {
             
         }
     }
-    

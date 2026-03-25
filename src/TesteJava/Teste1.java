@@ -1,3 +1,4 @@
+package TesteJava;
 public class Teste1 {
     public class Aluno{
         public static void main(String[] args){
