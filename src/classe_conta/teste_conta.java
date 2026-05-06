@@ -2,7 +2,7 @@ package classe_conta;
 
 public class teste_conta {
     public static void main(String[] args) {
-        Conta minhaConta = new Conta("Pink", 33);
+        conta minhaConta = new conta("Pink", 33);
 
         minhaConta.depositar(100);
         minhaConta.sacar(30);

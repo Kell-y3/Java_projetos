@@ -1,11 +1,11 @@
 package classe_conta;
 
-public class Conta {
+public class conta {
     private String titular;
     private int numeroConta;
     private double saldo;
 
-    public Conta(String nome, int numero) {
+    public conta(String nome, int numero) {
         titular = nome;
         numeroConta = numero;
         saldo = 0.0;

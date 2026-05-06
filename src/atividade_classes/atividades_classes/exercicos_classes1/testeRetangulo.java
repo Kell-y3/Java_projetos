@@ -1,4 +1,4 @@
-package atividade_classes.exercicos_classes1;
+package exercicos_classes1;
 
 public class testeRetangulo {
     public static void main(String[] args) {
