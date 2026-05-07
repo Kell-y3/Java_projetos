@@ -1,4 +1,4 @@
-package atividade_classes.atividadeClasses.exerciciosclasses2;
+package atividade_classes.;
 
 public class retangulo {
     private double altura;
